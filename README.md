@@ -56,13 +56,27 @@ streamlit run app.py
 
 The goal of this project is to build a practical tool that helps job seekers understand their skill gaps and improve their resumes for specific job opportunities.
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
-**Burhanuddin Bohra**
-
+### 1. Burhanuddin Bohra
 GitHub: [@theburhanuddin](https://github.com/theburhanuddin)
 
----
+### 2. Tahaud
+GitHub: [@tahaud694](https://github.com/tahaud694)
 
 *Built with Python as a hands-on learning project.*
+
+
+---
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Extracted Resume Text
+![Extracted Resume Text](screenshots/resume-text.png)
+
+### Resume Analysis
+![Resume Analysis](screenshots/analysis-results.png)
+
 
